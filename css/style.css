@@ -57,7 +57,7 @@ body{
     font-weight: 700;
 }
 header{
-    background: url(../img/back.webp);
+    background: url(../img/back.png);
     background-size: cover;
     color: #fff;
     position: relative;
